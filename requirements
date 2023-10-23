@@ -1,0 +1,7 @@
+requirements:
+
+import random
+import matplotlib.pyplot as plt
+import csv
+import numpy as np
+from abc import ABC, abstractmethod
